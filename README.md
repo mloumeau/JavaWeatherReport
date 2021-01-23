@@ -12,8 +12,8 @@ The program runs on a do-while loop to provide as many opportunities as the user
 
 I wrote this software as an introduction to Java. I wanted to get to learn the language and thought this project would be beneficial.
 
-
-[Software Demo Video](https://www.youtube.com/watch?v=35xYmYbJAdE)
+# YouTube
+[My Video Explanation](https://www.youtube.com/watch?v=35xYmYbJAdE)
 
 # Development Environment
 
