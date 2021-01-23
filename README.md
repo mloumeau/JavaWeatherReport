@@ -34,7 +34,7 @@ The only library that wasn't built in was the org.json. I had to download that a
 
 * [YouTube Tutorial for Java HTTP](https://www.youtube.com/watch?v=7H0sqS-ZJw0)
 * [StackOverflow for Java JSON](https://stackoverflow.com/questions/2591098/how-to-parse-json-in-java)
-* [Dpwnload org.json](https://mvnrepository.com/artifact/org.json/json/20140107)
+* [Download org.json](https://mvnrepository.com/artifact/org.json/json/20140107)
 
 # Future Work
 
