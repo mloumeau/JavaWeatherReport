@@ -12,9 +12,8 @@ The program runs on a do-while loop to provide as many opportunities as the user
 
 I wrote this software as an introduction to Java. I wanted to get to learn the language and thought this project would be beneficial.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=35xYmYbJAdE)
 
 # Development Environment
 
@@ -33,13 +32,10 @@ The only library that wasn't built in was the org.json. I had to download that a
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://www.youtube.com/watch?v=7H0sqS-ZJw0)
-* [Web Site Name](https://stackoverflow.com/questions/2591098/how-to-parse-json-in-java)
+* [YouTube Tutorial for Java HTTP](https://www.youtube.com/watch?v=7H0sqS-ZJw0)
+* [StackOverflow for Java JSON](https://stackoverflow.com/questions/2591098/how-to-parse-json-in-java)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Create a GUI
+* Learn more Java-like solutions
